@@ -1,1 +1,1 @@
-move directory
+delete repository
